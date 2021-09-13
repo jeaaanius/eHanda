@@ -1,0 +1,861 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon3916.eot?gdvvyp');
+  src:  url('../fonts/icomoon3916.eot?gdvvyp#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon3916.ttf?gdvvyp') format('truetype'),
+    url('../fonts/icomoon3916.woff?gdvvyp') format('woff'),
+    url('../fonts/icomoon3916.svg?gdvvyp#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-speaker:before {
+  content: "\e900";
+}
+.icon-security-camera:before {
+  content: "\e901";
+}
+.icon-lights:before {
+  content: "\e902";
+}
+.icon-heating:before {
+  content: "\e903";
+}
+.icon-sun-energy:before {
+  content: "\e904";
+}
+.icon-quote:before {
+  content: "\e905";
+}
+.icon-building .path1:before {
+  content: "\e906";
+  color: rgb(255, 166, 77);
+}
+.icon-building .path2:before {
+  content: "\e907";
+  margin-left: -1em;
+  color: rgb(255, 166, 77);
+}
+.icon-building .path3:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(51, 51, 51);
+}
+.icon-building .path4:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: rgb(51, 51, 51);
+}
+.icon-building .path5:before {
+  content: "\e90a";
+  margin-left: -1em;
+  color: rgb(51, 51, 51);
+}
+.icon-building .path6:before {
+  content: "\e90b";
+  margin-left: -1em;
+  color: rgb(51, 51, 51);
+}
+.icon-building .path7:before {
+  content: "\e90c";
+  margin-left: -1em;
+  color: rgb(51, 51, 51);
+}
+.icon-building .path8:before {
+  content: "\e90d";
+  margin-left: -1em;
+  color: rgb(51, 51, 51);
+}
+.icon-building .path9:before {
+  content: "\e90e";
+  margin-left: -1em;
+  color: rgb(51, 51, 51);
+}
+.icon-building .path10:before {
+  content: "\e90f";
+  margin-left: -1em;
+  color: rgb(51, 51, 51);
+}
+.icon-building .path11:before {
+  content: "\e910";
+  margin-left: -1em;
+  color: rgb(51, 51, 51);
+}
+.icon-building .path12:before {
+  content: "\e911";
+  margin-left: -1em;
+  color: rgb(51, 51, 51);
+}
+.icon-apartment .path1:before {
+  content: "\e912";
+  color: rgb(240, 188, 94);
+}
+.icon-apartment .path2:before {
+  content: "\e913";
+  margin-left: -1em;
+  color: rgb(240, 188, 94);
+}
+.icon-apartment .path3:before {
+  content: "\e914";
+  margin-left: -1em;
+  color: rgb(240, 188, 94);
+}
+.icon-apartment .path4:before {
+  content: "\e915";
+  margin-left: -1em;
+  color: rgb(240, 188, 94);
+}
+.icon-apartment .path5:before {
+  content: "\e916";
+  margin-left: -1em;
+  color: rgb(240, 188, 94);
+}
+.icon-apartment .path6:before {
+  content: "\e917";
+  margin-left: -1em;
+  color: rgb(240, 188, 94);
+}
+.icon-apartment .path7:before {
+  content: "\e918";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-dump-truck .path1:before {
+  content: "\e919";
+  color: rgb(240, 188, 94);
+}
+.icon-dump-truck .path2:before {
+  content: "\e91a";
+  margin-left: -1em;
+  color: rgb(240, 188, 94);
+}
+.icon-dump-truck .path3:before {
+  content: "\e91b";
+  margin-left: -1em;
+  color: rgb(240, 188, 94);
+}
+.icon-dump-truck .path4:before {
+  content: "\e91c";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-dump-truck .path5:before {
+  content: "\e91d";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-dump-truck .path6:before {
+  content: "\e91e";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-dump-truck .path7:before {
+  content: "\e91f";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-dump-truck .path8:before {
+  content: "\e920";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-dump-truck .path9:before {
+  content: "\e921";
+  margin-left: -1em;
+  color: rgb(240, 188, 94);
+}
+.icon-dump-truck .path10:before {
+  content: "\e922";
+  margin-left: -1em;
+  color: rgb(240, 188, 94);
+}
+.icon-wireless-gadget:before {
+  content: "\e923";
+}
+.icon-password:before {
+  content: "\e924";
+}
+.icon-credit-card:before {
+  content: "\e925";
+}
+.icon-24-hours:before {
+  content: "\e926";
+}
+.icon-login:before {
+  content: "\e927";
+}
+.icon-shield:before {
+  content: "\e928";
+}
+.icon-woman:before {
+  content: "\e929";
+}
+.icon-value:before {
+  content: "\e92a";
+}
+.icon-customer-support:before {
+  content: "\e92b";
+}
+.icon-efficiency:before {
+  content: "\e92c";
+}
+.icon-sun-energy-1:before {
+  content: "\e92d";
+}
+.icon-pinwheel:before {
+  content: "\e92e";
+}
+.icon-hydro-power:before {
+  content: "\e92f";
+}
+.icon-hot:before {
+  content: "\e930";
+}
+.icon-cold:before {
+  content: "\e931";
+}
+.icon-electricity:before {
+  content: "\e932";
+}
+.icon-pin .path1:before {
+  content: "\e933";
+  color: rgb(200, 210, 221);
+}
+.icon-pin .path2:before {
+  content: "\e934";
+  margin-left: -1em;
+  color: rgb(176, 188, 193);
+}
+.icon-pin .path3:before {
+  content: "\e935";
+  margin-left: -1em;
+  color: rgb(232, 24, 28);
+}
+.icon-pin .path4:before {
+  content: "\e936";
+  margin-left: -1em;
+  color: rgb(193, 17, 26);
+}
+.icon-pin .path5:before {
+  content: "\e937";
+  margin-left: -1em;
+  color: rgb(255, 100, 95);
+}
+.icon-cctv:before {
+  content: "\e938";
+}
+.icon-checked:before {
+  content: "\e939";
+}
+.icon-worker:before {
+  content: "\e93a";
+}
+.icon-phone-call:before {
+  content: "\e93b";
+}
+.icon-down-arrow:before {
+  content: "\e93c";
+}
+.icon-discount:before {
+  content: "\e93d";
+}
+.icon-settings:before {
+  content: "\e93e";
+}
+.icon-vision:before {
+  content: "\e93f";
+}
+.icon-increase:before {
+  content: "\e940";
+}
+.icon-close:before {
+  content: "\e941";
+}
+.icon-manager:before {
+  content: "\e942";
+}
+.icon-event:before {
+  content: "\e943";
+}
+.icon-settings-1:before {
+  content: "\e944";
+}
+.icon-map:before {
+  content: "\e945";
+}
+.icon-settings-2:before {
+  content: "\e946";
+}
+.icon-call-back:before {
+  content: "\e947";
+}
+.icon-call:before {
+  content: "\e948";
+}
+.icon-hour:before {
+  content: "\e949";
+}
+.icon-placeholder:before {
+  content: "\e94a";
+}
+.icon-right-arrow:before {
+  content: "\e94b";
+}
+.icon-home:before {
+  content: "\e94c";
+}
+.icon-store:before {
+  content: "\e94d";
+}
+.icon-search:before {
+  content: "\e94e";
+}
+.icon-down-chevron:before {
+  content: "\e94f";
+}
+.icon-email:before {
+  content: "\e950";
+}
+.icon-smartphone:before {
+  content: "\e951";
+}
+.icon-shopping-cart:before {
+  content: "\e952";
+}
+.icon-pharmacy:before {
+  content: "\e953";
+}
+.icon-building1:before {
+  content: "\e954";
+}
+.icon-security-camera1 .path1:before {
+  content: "\e955";
+  color: rgb(196, 162, 252);
+}
+.icon-security-camera1 .path2:before {
+  content: "\e956";
+  margin-left: -1em;
+  color: rgb(196, 162, 252);
+}
+.icon-security-camera1 .path3:before {
+  content: "\e957";
+  margin-left: -1em;
+  color: rgb(196, 162, 252);
+}
+.icon-security-camera1 .path4:before {
+  content: "\e958";
+  margin-left: -1em;
+  color: rgb(196, 162, 252);
+}
+.icon-security-camera1 .path5:before {
+  content: "\e959";
+  margin-left: -1em;
+  color: rgb(196, 162, 252);
+}
+.icon-security-camera1 .path6:before {
+  content: "\e95a";
+  margin-left: -1em;
+  color: rgb(196, 162, 252);
+}
+.icon-security-camera1 .path7:before {
+  content: "\e95b";
+  margin-left: -1em;
+  color: rgb(21, 26, 106);
+}
+.icon-cctv-camera .path1:before {
+  content: "\e95c";
+  color: rgb(196, 162, 252);
+}
+.icon-cctv-camera .path2:before {
+  content: "\e95d";
+  margin-left: -1em;
+  color: rgb(196, 162, 252);
+}
+.icon-cctv-camera .path3:before {
+  content: "\e95e";
+  margin-left: -1em;
+  color: rgb(196, 162, 252);
+}
+.icon-cctv-camera .path4:before {
+  content: "\e95f";
+  margin-left: -1em;
+  color: rgb(196, 162, 252);
+}
+.icon-cctv-camera .path5:before {
+  content: "\e960";
+  margin-left: -1em;
+  color: rgb(196, 162, 252);
+}
+.icon-cctv-camera .path6:before {
+  content: "\e961";
+  margin-left: -1em;
+  color: rgb(196, 162, 252);
+}
+.icon-cctv-camera .path7:before {
+  content: "\e962";
+  margin-left: -1em;
+  color: rgb(196, 162, 252);
+}
+.icon-cctv-camera .path8:before {
+  content: "\e963";
+  margin-left: -1em;
+  color: rgb(196, 162, 252);
+}
+.icon-cctv-camera .path9:before {
+  content: "\e964";
+  margin-left: -1em;
+  color: rgb(196, 162, 252);
+}
+.icon-cctv-camera .path10:before {
+  content: "\e965";
+  margin-left: -1em;
+  color: rgb(21, 26, 106);
+}
+.icon-cctv-camera .path11:before {
+  content: "\e966";
+  margin-left: -1em;
+  color: rgb(21, 26, 106);
+}
+.icon-cctv1 .path1:before {
+  content: "\e967";
+  color: rgb(196, 162, 252);
+}
+.icon-cctv1 .path2:before {
+  content: "\e968";
+  margin-left: -1em;
+  color: rgb(196, 162, 252);
+}
+.icon-cctv1 .path3:before {
+  content: "\e969";
+  margin-left: -1em;
+  color: rgb(21, 26, 106);
+}
+.icon-cctv1 .path4:before {
+  content: "\e96a";
+  margin-left: -1em;
+  color: rgb(21, 26, 106);
+}
+.icon-cctv1 .path5:before {
+  content: "\e96b";
+  margin-left: -1em;
+  color: rgb(21, 26, 106);
+}
+.icon-cctv1 .path6:before {
+  content: "\e96c";
+  margin-left: -1em;
+  color: rgb(21, 26, 106);
+}
+.icon-cctv-1 .path1:before {
+  content: "\e96d";
+  color: rgb(196, 162, 252);
+}
+.icon-cctv-1 .path2:before {
+  content: "\e96e";
+  margin-left: -1em;
+  color: rgb(196, 162, 252);
+}
+.icon-cctv-1 .path3:before {
+  content: "\e96f";
+  margin-left: -1em;
+  color: rgb(196, 162, 252);
+}
+.icon-cctv-1 .path4:before {
+  content: "\e970";
+  margin-left: -1em;
+  color: rgb(196, 162, 252);
+}
+.icon-cctv-1 .path5:before {
+  content: "\e971";
+  margin-left: -1em;
+  color: rgb(21, 26, 106);
+}
+.icon-cctv-1 .path6:before {
+  content: "\e972";
+  margin-left: -1em;
+  color: rgb(21, 26, 106);
+}
+.icon-cctv-2 .path1:before {
+  content: "\e973";
+  color: rgb(196, 162, 252);
+}
+.icon-cctv-2 .path2:before {
+  content: "\e974";
+  margin-left: -1em;
+  color: rgb(196, 162, 252);
+}
+.icon-cctv-2 .path3:before {
+  content: "\e975";
+  margin-left: -1em;
+  color: rgb(21, 26, 106);
+}
+.icon-cctv-2 .path4:before {
+  content: "\e976";
+  margin-left: -1em;
+  color: rgb(21, 26, 106);
+}
+.icon-cctv-2 .path5:before {
+  content: "\e977";
+  margin-left: -1em;
+  color: rgb(21, 26, 106);
+}
+.icon-web-camera .path1:before {
+  content: "\e978";
+  color: rgb(196, 162, 252);
+}
+.icon-web-camera .path2:before {
+  content: "\e979";
+  margin-left: -1em;
+  color: rgb(196, 162, 252);
+}
+.icon-web-camera .path3:before {
+  content: "\e97a";
+  margin-left: -1em;
+  color: rgb(196, 162, 252);
+}
+.icon-web-camera .path4:before {
+  content: "\e97b";
+  margin-left: -1em;
+  color: rgb(196, 162, 252);
+}
+.icon-web-camera .path5:before {
+  content: "\e97c";
+  margin-left: -1em;
+  color: rgb(196, 162, 252);
+}
+.icon-web-camera .path6:before {
+  content: "\e97d";
+  margin-left: -1em;
+  color: rgb(196, 162, 252);
+}
+.icon-web-camera .path7:before {
+  content: "\e97e";
+  margin-left: -1em;
+  color: rgb(196, 162, 252);
+}
+.icon-web-camera .path8:before {
+  content: "\e97f";
+  margin-left: -1em;
+  color: rgb(196, 162, 252);
+}
+.icon-web-camera .path9:before {
+  content: "\e980";
+  margin-left: -1em;
+  color: rgb(21, 26, 106);
+}
+.icon-web-camera .path10:before {
+  content: "\e981";
+  margin-left: -1em;
+  color: rgb(21, 26, 106);
+}
+.icon-web-camera .path11:before {
+  content: "\e982";
+  margin-left: -1em;
+  color: rgb(21, 26, 106);
+}
+.icon-web-camera .path12:before {
+  content: "\e983";
+  margin-left: -1em;
+  color: rgb(21, 26, 106);
+}
+.icon-web-camera .path13:before {
+  content: "\e984";
+  margin-left: -1em;
+  color: rgb(21, 26, 106);
+}
+.icon-install:before {
+  content: "\e985";
+}
+.icon-support:before {
+  content: "\e986";
+}
+.icon-toolbox:before {
+  content: "\e987";
+}
+.icon-file:before {
+  content: "\e988";
+}
+.icon-server:before {
+  content: "\e989";
+}
+.icon-chat:before {
+  content: "\e98a";
+}
+.icon-calculator:before {
+  content: "\e98b";
+}
+.icon-calendar:before {
+  content: "\e98c";
+}
+.icon-done:before {
+  content: "\e98d";
+}
+.icon-camera:before {
+  content: "\e98e";
+}
+.icon-time-management:before {
+  content: "\e98f";
+}
+.icon-umbrella:before {
+  content: "\e990";
+}
+.icon-security:before {
+  content: "\e991";
+}
+.icon-face-recognition:before {
+  content: "\e992";
+}
+.icon-shipping:before {
+  content: "\e993";
+}
+.icon-thief:before {
+  content: "\e994";
+}
+.icon-fingerprint:before {
+  content: "\e995";
+}
+.icon-remote:before {
+  content: "\e996";
+}
+.icon-zoom-in:before {
+  content: "\e997";
+}
+.icon-link:before {
+  content: "\e998";
+}
+.icon-cctv-3:before {
+  content: "\e999";
+}
+.icon-cctv-4:before {
+  content: "\e99a";
+}
+.icon-left-quote:before {
+  content: "\e99b";
+}
+.icon-chat-1:before {
+  content: "\e99c";
+}
+.icon-user:before {
+  content: "\e99d";
+}
+.icon-day-and-night:before {
+  content: "\e99e";
+}
+.icon-rain:before {
+  content: "\e99f";
+}
+.icon-home-1:before {
+  content: "\e9a0";
+}
+.icon-location:before {
+  content: "\e9a1";
+}
+.icon-email-1:before {
+  content: "\e9a2";
+}
+.icon-clock:before {
+  content: "\e9a3";
+}
+.icon-email-2:before {
+  content: "\e9a4";
+}
+.icon-cloud:before {
+  content: "\e9a5";
+}
+.icon-shield1:before {
+  content: "\e9a6";
+}
+.icon-network:before {
+  content: "\e9a7";
+}
+.icon-view:before {
+  content: "\e9a8";
+}
+.icon-online-shopping:before {
+  content: "\e9a9";
+}
+.icon-shield-1 .path1:before {
+  content: "\e9aa";
+  color: rgb(196, 162, 252);
+}
+.icon-shield-1 .path2:before {
+  content: "\e9ab";
+  margin-left: -1em;
+  color: rgb(21, 26, 106);
+}
+.icon-military-man .path1:before {
+  content: "\e9ac";
+  color: rgb(196, 162, 252);
+}
+.icon-military-man .path2:before {
+  content: "\e9ad";
+  margin-left: -1em;
+  color: rgb(196, 162, 252);
+}
+.icon-military-man .path3:before {
+  content: "\e9ae";
+  margin-left: -1em;
+  color: rgb(21, 26, 106);
+}
+.icon-military-man .path4:before {
+  content: "\e9af";
+  margin-left: -1em;
+  color: rgb(21, 26, 106);
+}
+.icon-military-man .path5:before {
+  content: "\e9b0";
+  margin-left: -1em;
+  color: rgb(21, 26, 106);
+}
+.icon-consultant .path1:before {
+  content: "\e9b1";
+  color: rgb(67, 112, 255);
+}
+.icon-consultant .path2:before {
+  content: "\e9b2";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-secure-payment .path1:before {
+  content: "\e9b3";
+  color: rgb(67, 112, 255);
+}
+.icon-secure-payment .path2:before {
+  content: "\e9b4";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-malware .path1:before {
+  content: "\e9b5";
+  color: rgb(67, 112, 255);
+}
+.icon-malware .path2:before {
+  content: "\e9b6";
+  margin-left: -1em;
+  color: rgb(67, 112, 255);
+}
+.icon-malware .path3:before {
+  content: "\e9b7";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-malware .path4:before {
+  content: "\e9b8";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-malware .path5:before {
+  content: "\e9b9";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-right-arrow-1:before {
+  content: "\e9ba";
+}
+.icon-dial-pad:before {
+  content: "\e9bb";
+}
+.icon-phone-call1:before {
+  content: "\e9bc";
+}
+.icon-share:before {
+  content: "\e9bd";
+}
+.icon-police:before {
+  content: "\e9be";
+}
+.icon-consultation:before {
+  content: "\e9bf";
+}
+.icon-personal-security:before {
+  content: "\e9c0";
+}
+.icon-protection:before {
+  content: "\e9c1";
+}
+.icon-shield-2:before {
+  content: "\e9c2";
+}
+.icon-police-1:before {
+  content: "\e9c3";
+}
+.icon-diamond:before {
+  content: "\e9c4";
+}
+.icon-building-1:before {
+  content: "\e9c5";
+}
+.icon-winner:before {
+  content: "\e9c6";
+}
+.icon-guard:before {
+  content: "\e9c7";
+}
+.icon-badge:before {
+  content: "\e9c8";
+}
+.icon-24-hours1:before {
+  content: "\e9c9";
+}
+.icon-motion-sensor:before {
+  content: "\e9ca";
+}
+.icon-bell:before {
+  content: "\e9cb";
+}
+.icon-remote-control:before {
+  content: "\e9cc";
+}
+.icon-door-hanger .path1:before {
+  content: "\e9cd";
+  color: rgb(196, 162, 252);
+}
+.icon-door-hanger .path2:before {
+  content: "\e9ce";
+  margin-left: -1em;
+  color: rgb(196, 162, 252);
+}
+.icon-door-hanger .path3:before {
+  content: "\e9cf";
+  margin-left: -1em;
+  color: rgb(21, 26, 106);
+}
+.icon-door-hanger .path4:before {
+  content: "\e9d0";
+  margin-left: -1em;
+  color: rgb(21, 26, 106);
+}
+.icon-door-hanger .path5:before {
+  content: "\e9d1";
+  margin-left: -1em;
+  color: rgb(21, 26, 106);
+}
+.icon-door-hanger .path6:before {
+  content: "\e9d2";
+  margin-left: -1em;
+  color: rgb(21, 26, 106);
+}
+.icon-fire-alarm:before {
+  content: "\e9d3";
+}
+.icon-door-handle:before {
+  content: "\e9d4";
+}
+.icon-drawing-tablet:before {
+  content: "\e9d5";
+}
