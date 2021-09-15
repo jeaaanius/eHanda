@@ -11,7 +11,7 @@
 
 @media only screen and (max-width: 1749px){
 
-  .main-header.style-five .menu-right-content .cart-box{
+  .main-header.style-five .menu-right-content .record-box{
     margin-right: 0px;
     padding-right: 20px;
   }
@@ -28,12 +28,12 @@
     display: none;
   }
 
-  .main-header.style-two .menu-right-content .cart-box{
+  .main-header.style-two .menu-right-content .record-box{
     padding-right: 0px;
     margin-right: 0px;
   }
 
-  .main-header.style-two .menu-right-content .cart-box:before{
+  .main-header.style-two .menu-right-content .record-box:before{
     display: none;
   }
 
@@ -324,7 +324,7 @@
     display: none;
   }
 
-  .chooseus-style-two .image-layer,
+  .roll-style-two .image-layer,
   .testimonial-style-five .bg-layer{
     display: none;
   }
@@ -356,7 +356,7 @@
     right: 10px;
   }
 
-  .cart-section .apply-coupon .form-group button{
+  .record-section .apply-coupon .form-group button{
     padding: 16px 30px;
   }
 
@@ -394,7 +394,7 @@
     margin-right: 0px;
   }
 
-  .shop-sidebar .post-widget .post{
+  .case-sidebar .post-widget .post{
     padding-left: 80px;
   }
 
@@ -700,7 +700,7 @@
     float: none;
   }
 
-  .main-header.style-four .header-top .social-links, 
+  .main-header.style-four .header-top .social-links,
   .main-header.style-four .header-top .search-box-outer{
     float: none;
     display: inline-block;
@@ -743,7 +743,7 @@
   }
 
   .feature-style-two,
-  .chooseus-style-two{
+  .roll-style-two{
     padding-bottom: 80px;
   }
 
@@ -751,11 +751,11 @@
     margin-bottom: 40px;
   }
 
-  .chooseus-style-two .video_block_1{
+  .roll-style-two .video_block_1{
     margin: 0px 0px 30px 0px;
   }
 
-  .chooseus-block-two .inner-box{
+  .roll-block-two .inner-box{
     margin-bottom: 30px;
     padding: 40px 30px 32px 30px;
   }
@@ -796,7 +796,7 @@
     text-align: center;
   }
 
-  .main-header.style-six .header-top-3 .mail-box, 
+  .main-header.style-six .header-top-3 .mail-box,
   .main-header.style-six .header-top-3 .social-links{
     float: none;
     display: inline-block;
@@ -882,31 +882,31 @@
     margin-bottom: 40px;
   }
 
-  .history-section .history-block{
+  .vaccine-section .vaccine-block{
     padding-right: 0px;
   }
 
-  .history-section .history-block .image-box{
+  .vaccine-section .vaccine-block .image-box{
     position: relative;
     border-radius: 5px;
     max-width: 540px;
     margin: 0 auto;
   }
 
-  .history-section .history-block{
+  .vaccine-section .vaccine-block{
     padding: 30px 30px;
   }
 
-  .history-section .owl-nav{
+  .vaccine-section .owl-nav{
     display: none;
   }
 
-  .history-section .history-block .content-box{
+  .vaccine-section .vaccine-block .content-box{
     padding-left: 0px;
     padding-right: 0px;
   }
 
-  .history-section .history-block .image-box img{
+  .vaccine-section .vaccine-block .image-box img{
     width: 100%;
     border-radius: 5px;
   }
@@ -947,7 +947,7 @@
     padding-bottom: 10px;
   }
 
-  .shop-sidebar{
+  .case-sidebar{
     margin-bottom: 30px;
   }
 
@@ -957,35 +957,35 @@
     margin-bottom: 30px;
   }
 
-  .shop-details .related-products .shop-block-one .inner-box{
+  .case-details .related-products .case-block-one .inner-box{
     margin-bottom: 30px;
   }
 
-  .shop-details{
+  .case-details{
     padding-bottom: 80px;
   }
 
-  .cart-section .apply-coupon .form-group:last-child{
+  .record-section .apply-coupon .form-group:last-child{
     float: right;
   }
 
-  .cart-section .apply-coupon{
+  .record-section .apply-coupon{
     margin-bottom: 30px;
   }
 
-  .cart-section .btn-box{
+  .record-section .btn-box{
     float: none;
   }
 
-  .cart-section .btn-box .theme-btn.style-one.checkout-btn{
+  .record-section .btn-box .theme-btn.style-one.contents-btn{
     float: right;
   }
 
-  .checkout-section .shipping-address{
+  .contents-section .shipping-address{
     margin-bottom: 30px;
   }
 
-  .checkout-section .payment-option .payment-method{
+  .contents-section .contents-option .contents-method{
     margin-bottom: 30px;
   }
 
@@ -1287,7 +1287,7 @@
     margin: 0 auto;
   }
 
-  .chooseus-section .owl-nav{
+  .roll-section .owl-nav{
     display: none;
   }
 
@@ -1399,7 +1399,7 @@
     transform: scale(1) !important;
   }
 
-  .rtl .copyright, 
+  .rtl .copyright,
   .rtl .footer-nav{
     float: none !important;
   }
@@ -1412,15 +1412,15 @@
     margin-bottom: 44px;
   }
 
-  .chooseus-style-three{
+  .roll-style-three{
     padding-top: 190px;
   }
 
-  .chooseus-style-three{
+  .roll-style-three{
     padding-bottom: 40px;
   }
 
-  .history-section .history-block .content-box{
+  .vaccine-section .vaccine-block .content-box{
     padding-bottom: 0px;
   }
 
@@ -1458,29 +1458,29 @@
     margin-bottom: 30px;
   }
 
-  .shop-page-section{
+  .case-page-section{
     padding: 70px 0px;
   }
 
-  .shop-block-one{
+  .case-block-one{
     max-width: 300px;
     margin: 0 auto;
   }
 
-  .product-discription .tabs-content .comment-form .message-btn .custom-controls-stacked{
+  .description .tabs-content .comment-form .message-btn .custom-controls-stacked{
     line-height: 26px;
     margin-top: 20px;
   }
 
-  .product-discription .custom-control.material-checkbox .material-control-indicator{
+  .description .custom-control.material-checkbox .material-control-indicator{
     top: 7px;
   }
 
-  .shop-details{
+  .case-details{
     padding-bottom: 40px;
   }
 
-  .product-discription{
+  .description{
     margin-bottom: 50px;
   }
 
@@ -1693,13 +1693,13 @@
     right: 0px;
   }
 
-  .our-shop .item-shorting .text{
+  .our-case .item-shorting .text{
     float: none;
     display: block;
     text-align: center;
   }
 
-  .our-shop .item-shorting .short-box{
+  .our-case .item-shorting .short-box{
     float: none;
     max-width: 250px;
     margin: 0 auto;
@@ -2041,23 +2041,23 @@
     display: none;
    }
 
-   .history-section .history-block .content-box .upper{
+   .vaccine-section .vaccine-block .content-box .upper{
     padding-left: 0px;
    }
 
-   .history-section .history-block .content-box .upper span{
+   .vaccine-section .vaccine-block .content-box .upper span{
     position: relative;
     display: inline-block;
     margin-bottom: 15px;
     top: 0px;
    }
 
-   .history-section .history-block .content-box .upper h3{
+   .vaccine-section .vaccine-block .content-box .upper h3{
     font-size: 20px;
     line-height: 30px;
    }
 
-   .history-section .history-block .content-box .upper{
+   .vaccine-section .vaccine-block .content-box .upper{
     margin-bottom: 20px;
    }
 
@@ -2070,40 +2070,40 @@
     top: 0px;
    }
 
-   .product-discription .tab-btn-box .tab-buttons li{
+   .description .tab-btn-box .tab-buttons li{
     padding: 13px 15px;
     margin: 0px 5px;
    }
 
-   .cart-section .apply-coupon .form-group input[type="text"]{
+   .record-section .apply-coupon .form-group input[type="text"]{
     width: 100%;
     margin-bottom: 10px;
    }
 
-   .cart-section .apply-coupon .form-group{
+   .record-section .apply-coupon .form-group{
     float: none;
     margin: 0px;
    }
 
-   .cart-section .apply-coupon .form-group:last-child{
+   .record-section .apply-coupon .form-group:last-child{
     float: none;
    }
 
-   .cart-section .apply-coupon .form-group button{
+   .record-section .apply-coupon .form-group button{
     display: block;
     width: 100%;
    }
 
-   .cart-section .btn-box button{
+   .record-section .btn-box button{
     float: none;
     margin: 0px;
     width: 100%;
     margin-bottom: 10px;
    }
 
-   .checkout-section .product-information,
-   .checkout-section .payment-option .payment-method,
-   .checkout-section .payment-option .card-details{
+   .contents-section .product-information,
+   .contents-section .contents-option .contents-method,
+   .contents-section .contents-option .card-details{
     padding: 40px 30px;
    }
 
@@ -2119,7 +2119,7 @@
 }
 
 @media only screen and (max-width: 399px){
-  
+
   .main-header .menu-right-content .social-style-one{
     display: none;
   }
@@ -2223,7 +2223,7 @@
     padding-bottom: 500px;
   }
 
-  .main-header .menu-right-content .cart-box{
+  .main-header .menu-right-content .record-box{
     top: 5px;
   }
 

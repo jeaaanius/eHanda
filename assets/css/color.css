@@ -41,7 +41,7 @@
     background: #33ACCC;
 }
 
-.main-header .menu-right-content .cart-box a{
+.main-header .menu-right-content .record-box a{
     color: #33ACCC;
 }
 
@@ -123,28 +123,6 @@
 
 .testimonial-block-one .inner-box .designation{
     color: #33ACCC;
-}
-
-.newsletter-section .left-column .inner-box .price{
-    background: #33ACCC;
-}
-
-.newsletter-section .right-column .newsletter-form .form-group input:focus + button,
-.newsletter-section .right-column .newsletter-form .form-group button:hover{
-    background: #33ACCC;
-}
-
-.newsletter-section .right-column .newsletter-form .form-group input:focus{
-    border-color: #33ACCC !important;
-}
-
-.newsletter-section .right-column .social-links li a:hover{
-    background: #33ACCC;
-    border-color: #33ACCC;
-}
-
-.newsletter-section .bg-shape{
-    background: #33ACCC;
 }
 
 .bg-color-2{
@@ -258,7 +236,7 @@
     color: #33ACCC;
 }
 
-.blue .main-header .menu-right-content .cart-box a:hover{
+.blue .main-header .menu-right-content .record-box a:hover{
     color: #33ACCC;
 }
 
@@ -490,23 +468,23 @@
     color: #33ACCC;
 }
 
-.chooseus-block-two .inner-box .icon-box{
+.roll-block-two .inner-box .icon-box{
     color: #33ACCC;
 }
 
-.chooseus-style-three .chooseus-block-two .inner-box:hover .icon-box:before{
+.roll-style-three .roll-block-two .inner-box:hover .icon-box:before{
     background: #33ACCC;
 }
 
-.history-section .history-block .content-box .upper span{
+.vaccine-section .vaccine-block .content-box .upper span{
     background: #33ACCC;
 }
 
-.history-section .history-block .content-box .list li:before{
+.vaccine-section .vaccine-block .content-box .list li:before{
     color: #33ACCC;
 }
 
-.history-section .owl-nav button:hover{
+.vaccine-section .owl-nav button:hover{
     background: #33ACCC;
 }
 
@@ -640,40 +618,40 @@
     background: #33ACCC;
 }
 
-.shop-sidebar .sidebar-search .search-form .form-group input:focus + button,
-.shop-sidebar .sidebar-search .search-form .form-group button:hover{
+.case-sidebar .sidebar-search .search-form .form-group input:focus + button,
+.case-sidebar .sidebar-search .search-form .form-group button:hover{
     background: #33ACCC;
 }
 
-.shop-sidebar .sidebar-search .search-form .form-group input:focus{
+.case-sidebar .sidebar-search .search-form .form-group input:focus{
     border-color: #33ACCC !important;
 }
 
-.shop-sidebar .category-widget .category-list li a:hover{
+.case-sidebar .category-widget .category-list li a:hover{
     color: #33ACCC;
 }
 
-.shop-sidebar .post-widget .post a:hover{
+.case-sidebar .post-widget .post a:hover{
     color: #33ACCC;
 }
 
-.shop-sidebar .post-widget .post .post-thumb{
+.case-sidebar .post-widget .post .post-thumb{
     background: #33ACCC;
 }
 
-.shop-block-one .inner-box .image-box .cart-btn{
+.case-block-one .inner-box .image-box .record-btn{
     background: #33ACCC;
 }
 
-.shop-block-one .inner-box .image-box .cart-btn:hover{
+.case-block-one .inner-box .image-box .record-btn:hover{
     color: #33ACCC;
 }
 
-.shop-block-one .inner-box .lower-content .rating-box li{
+.case-block-one .inner-box .lower-content .rating-box li{
     color: #33ACCC;
 }
 
-.shop-block-one .inner-box .lower-content h6 a:hover{
+.case-block-one .inner-box .lower-content h6 a:hover{
     color: #33ACCC;
 }
 
@@ -689,45 +667,11 @@
     color: #33ACCC;
 }
 
-.addto-cart-box .like-btn a:hover{
-    background: #33ACCC;
-}
-
 .product-details-content .product-details .categry-box li a:hover{
     color: #33ACCC;
 }
 
-.sidebar-page-container .news-block-one .inner-box .lower-content h3 a:hover{
-    color: #33ACCC;
-}
-
-.sidebar-page-container .news-block-one .inner-box .lower-content .link a:hover{
-    color: #33ACCC;
-}
-
-.sidebar-page-container .news-block-one .inner-box .lower-content .upper .comment a:hover{
-    color: #33ACCC;
-}
-
-.sidebar-page-container .news-block-one .inner-box .lower-content .share-option .social-links li a:hover{
-    color: #33ACCC;
-    border-color: #33ACCC;
-}
-
-.sidebar-page-container .news-block-one .inner-box .lower-content .share-option:hover .share-icon{
-    color: #33ACCC;
-}
-
 .product-details-content .product-details .title-box .share-box a:hover{
-    background: #33ACCC;
-}
-
-.comments-form-area .default-form .form-group input:focus,
-.comments-form-area .default-form .form-group textarea:focus{
-    border-color: #33ACCC !important;
-}
-
-.comments-form-area .default-form .form-group .theme-btn:before{
     background: #33ACCC;
 }
 
@@ -755,7 +699,7 @@
 .contact-info-section .inner-content .single-item p a:hover{
     color: #33ACCC;
 }
-.product-discription .tab-btn-box .tab-buttons li.active-btn{
+.description .tab-btn-box .tab-buttons li.active-btn{
     background: #33accc;
     border-color: #33accc;
 }
