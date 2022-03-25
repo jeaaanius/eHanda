@@ -13,7 +13,7 @@
 </p>  
 
 <p align="center">
-  <img src="assets/images/Cover.png">
+  <img src="assets/images/Cover_website.png">
 </p>
 
 ## 🎨 Color Reference
