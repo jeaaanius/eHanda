@@ -6,7 +6,8 @@ Web Design for E-Handa, a Web and SMS-Based Information Dissemination System in 
 
 </br>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/12b13be9-a8eb-4734-93d7-28cc3c716952/deploy-status)](https://app.netlify.com/sites/e-handa/deploys)
+<p align="center">[![Netlify Status](https://api.netlify.com/api/v1/badges/12b13be9-a8eb-4734-93d7-28cc3c716952/deploy-status)](https://app.netlify.com/sites/e-handa/deploys)
+</p>
 
 <p align="center">
 <img src="assets/images/Cover.png">
