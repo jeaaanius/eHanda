@@ -17,3 +17,15 @@ Web Design for E-Handa, a Web and SMS-Based Information Dissemination System in 
 <img src="assets/images/Cover.png">
 </p>
 </center>
+
+## 🎨 Color Reference
+
+| Color          | Hex                                                                |
+| -------------- | ------------------------------------------------------------------ |
+| Pacific Blue   | ![#43B2CF](https://via.placeholder.com/10/43B2CF?text=+) `#43B2CF` |
+| Blue Zodiac    | ![#142652](https://via.placeholder.com/10/142652?text=+) `#142652` |
+| Wood Smoke     | ![#111111](https://via.placeholder.com/10/111111?text=+) `#111111` |
+| Storm Dust     | ![#606060](https://via.placeholder.com/10/606060?text=+) `#606060` |
+| French Gray    | ![#B6B9C2](https://via.placeholder.com/10/B6B9C2?text=+) `#B6B9C2` |
+| Wild Sand      | ![#F4F4F4](https://via.placeholder.com/10/F4F4F4?text=+) `#F4F4F4` |
+| White          | ![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) `#FFFFFF` |
