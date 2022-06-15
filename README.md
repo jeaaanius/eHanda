@@ -1,10 +1,10 @@
-<h1 align="center">E-Handa</h1>
+<div align="center">
+  <img alt="Logo" src="assets/images/logo-3.png" width="200" />
+</div>
 
 <p align="center">  
   A Web and SMS-Based Information Dissemination System in times of calamities in the city of San Fernando, Pampanga.
 </p>
-
-<br>
 
 <p align="center">
   <a href="https://app.netlify.com/sites/e-handa/deploys" target="_blank">
